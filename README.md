@@ -1,4 +1,5 @@
 # Software Development Guide
+jade pineda
 
 ## Table of Contents
 - [Interpreting User Needs](#interpreting-user-needs)
