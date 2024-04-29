@@ -1,5 +1,4 @@
-# Software Development Guide
-jade pineda
+# CS-250 - Jade Pineda
 
 ## Table of Contents
 - [Interpreting User Needs](#interpreting-user-needs)
